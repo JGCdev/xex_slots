@@ -1,4 +1,7 @@
 # xex_slots
+
+> More XeX scripts on [xexstudio.com](https://xexstudio.com/scripts?utm_source=github&utm_campaign=slots) · Support: [Discord](https://discord.gg/9yY3Jxnhh8)
+
 Fixed Slot machines for ESX, based on: https://forum.cfx.re/t/release-vrp-esx-slots-5x3-slot-machine-animated-sound-effects/627146
 
 ## Requirements
